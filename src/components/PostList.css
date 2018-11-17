@@ -1,0 +1,16 @@
+#post-list {
+  position: relative;
+  width: 400px;
+  left: calc(50vw - 200px);
+}
+
+textarea {
+  width: 100%;
+  height: 100px;
+}
+
+#cerrar-sesion {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
