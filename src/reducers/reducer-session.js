@@ -1,4 +1,4 @@
-export default function(state = 'ralex', action) {
+export default function(state = null, action) {
 	switch (action.type) {
 		case 'SET_SESSION': 
       return action.payload

@@ -1,3 +1,11 @@
+# Laboratoria - FB
+
+Prueba de destreza con JS 
+
+## Demo
+
+Puedes ver el demo montado en [Firebase](https://laboratoria-fb-dc1f7.firebaseapp.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
